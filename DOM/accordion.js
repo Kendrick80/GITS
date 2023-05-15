@@ -5,3 +5,4 @@ for(i=0 ;i<accordion.length; i++){
     })
 }
 //Pirate on a boat
+//Pirare on a boat
