@@ -4,4 +4,5 @@ for(i=0 ;i<accordion.length; i++){
         this.classList.toggle("active");
     })
 }
+//Pirate on a boat
 //Pirare on a boat
